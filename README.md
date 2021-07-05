@@ -3,7 +3,7 @@ This repo offers some data analytics presentations based on playlist from a Yout
 
 ### Two samples t-test
 - **[playlist](https://www.youtube.com/playlist?list=PLVI_iGT5ZuRnR6D2M8hhIBcsJn4Dq6jkn)**
-- **[presentation]()**
+- **[presentation](t-test/independent.pdf)**
 
 ### ANOVA
 - **[playlist](https://youtube.com/playlist?list=PLVI_iGT5ZuRk55pvafg5QDQtQrxs7IHx8)**
