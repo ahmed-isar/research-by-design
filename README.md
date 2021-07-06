@@ -7,7 +7,7 @@ This repo offers some data analytics presentations based on playlist from a Yout
 
 ### ANOVA
 - **[playlist](https://youtube.com/playlist?list=PLVI_iGT5ZuRk55pvafg5QDQtQrxs7IHx8)**
-- **[presentation]()**
+- **[presentation](ANOVA/wicked_witch.pdf)**
 
 ### Chi-square
 - **[playlist](https://www.youtube.com/playlist?list=PLVI_iGT5ZuRmr2GuaQU3zDfysDFnoVtxe)**
