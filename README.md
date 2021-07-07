@@ -11,7 +11,7 @@ This repo offers some data analytics presentations based on playlist from a Yout
 
 ### Chi-square
 - **[playlist](https://www.youtube.com/playlist?list=PLVI_iGT5ZuRmr2GuaQU3zDfysDFnoVtxe)**
-- **[presentation]()**
+- **[presentation](chi-square/builiding%20permits.pdf)**
 
 ---
 
